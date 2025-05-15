@@ -2,7 +2,7 @@
 
 <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebrancati&langs_count=6&layout=compact&hide_border=true&theme=tokyonight"
-    width="60%"
+    width="40%"
     alt="Top Languages"
 />
 
